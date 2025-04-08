@@ -1,0 +1,11 @@
+.container {
+    max-width: 1200px;
+  }
+  
+  .table {
+    margin-top: 20px;
+  }
+  
+  .btn-sm {
+    padding: 0.25rem 0.5rem;
+  }
