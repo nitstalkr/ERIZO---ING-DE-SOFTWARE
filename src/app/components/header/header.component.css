@@ -1,0 +1,46 @@
+/* Estilo general del header */
+header {
+    background-color: #212529;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    padding: 0.75rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+/* Contenedor de la navbar */
+.navbar {
+    padding: 0.5rem 1rem;
+}
+
+/* Marca del sistema */
+.navbar-brand strong {
+    font-size: 1.5rem;
+    color: #fff;
+    letter-spacing: 1px;
+    transition: color 0.3s ease;
+}
+
+.navbar-brand strong:hover {
+    color: #0d6efd;
+    
+}
+
+/* Botones del header */
+header button {
+    background-color: transparent;
+    border: 1px solid #0d6efd;
+    color: #0d6efd;
+    border-radius: 0.375rem;
+    padding: 0.4rem 0.9rem;
+    margin-left: 0.5rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+header button:hover {
+    background-color: #0d6efd;
+    color: white;
+    transform: scale(1.05);
+}
