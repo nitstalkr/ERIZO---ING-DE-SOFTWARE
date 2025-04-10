@@ -1,110 +1,118 @@
 <div class="container mt-5">
-    <h2 class="mb-4">Gestión de Equipos de Concurso</h2>
-    
-    <!-- Formulario para agregar/editar -->
+  <div class="card shadow-lg rounded p-4 bg-light">
+    <h2 class="mb-4 text-center">Gestión de Equipos de Concurso</h2>
+
+    <!-- Formulario -->
     <form #teamForm="ngForm" (ngSubmit)="onSubmit()">
-      <div class="row g-3 mb-3">
+      <div class="row g-3">
         <div class="col-md-6">
+          <label class="form-label">Nombre del equipo</label>
           <input 
             type="text" 
             class="form-control" 
             [(ngModel)]="currentTeam.teamName" 
             name="teamName" 
-            placeholder="Nombre del equipo" 
             required>
         </div>
+
         <div class="col-md-6">
+          <label class="form-label">Título de la convocatoria</label>
           <input 
             type="text" 
             class="form-control" 
             [(ngModel)]="currentTeam.contestTitle" 
             name="contestTitle" 
-            placeholder="Título de la convocatoria" 
             required>
         </div>
+
         <div class="col-md-4">
+          <label class="form-label">Alumno 1</label>
           <input 
             type="text" 
             class="form-control" 
             [(ngModel)]="currentTeam.student1" 
             name="student1" 
-            placeholder="Nombre alumno 1" 
             required>
         </div>
+
         <div class="col-md-4">
+          <label class="form-label">Alumno 2</label>
           <input 
             type="text" 
             class="form-control" 
             [(ngModel)]="currentTeam.student2" 
             name="student2" 
-            placeholder="Nombre alumno 2" 
             required>
         </div>
+
         <div class="col-md-4">
+          <label class="form-label">Alumno 3</label>
           <input 
             type="text" 
             class="form-control" 
             [(ngModel)]="currentTeam.student3" 
             name="student3" 
-            placeholder="Nombre alumno 3" 
             required>
         </div>
+
         <div class="col-md-6">
+          <label class="form-label">Coach</label>
           <input 
             type="text" 
             class="form-control" 
             [(ngModel)]="currentTeam.coach" 
             name="coach" 
-            placeholder="Nombre del coach" 
             required>
         </div>
-        <div class="col-md-6">
+
+        <div class="col-md-6 d-flex align-items-end">
           <button 
             type="submit" 
-            class="btn btn-primary w-100"
+            class="btn btn-success w-100 fw-bold"
             [disabled]="!teamForm.valid">
-            {{ currentTeam.id ? 'Actualizar' : 'Agregar' }}
+            {{ currentTeam.id ? 'Actualizar equipo' : 'Agregar equipo' }}
           </button>
         </div>
       </div>
     </form>
-  
-    <!-- Lista de equipos -->
-    <div class="table-responsive">
-      <table class="table table-striped">
-        <thead>
-          <tr>
-            <th>Equipo</th>
-            <th>Convocatoria</th>
-            <th>Alumno 1</th>
-            <th>Alumno 2</th>
-            <th>Alumno 3</th>
-            <th>Coach</th>
-            <th>Acciones</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr *ngFor="let team of teams">
-            <td>{{ team.teamName }}</td>
-            <td>{{ team.contestTitle }}</td>
-            <td>{{ team.student1 }}</td>
-            <td>{{ team.student2 }}</td>
-            <td>{{ team.student3 }}</td>
-            <td>{{ team.coach }}</td>
-            <td>
-              <button 
-                class="btn btn-sm btn-warning me-2" 
-                (click)="editTeam(team)">
-                Editar
-              </button>
-              <button 
-                class="btn btn-sm btn-danger" 
-                (click)="deleteTeam(team.id)">
-                Eliminar
-              </button>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
   </div>
+
+  <!-- Tabla -->
+  <div class="table-responsive mt-5">
+    <table class="table table-hover align-middle shadow-sm bg-white rounded">
+      <thead class="table-dark">
+        <tr>
+          <th>Equipo</th>
+          <th>Convocatoria</th>
+          <th>Alumno 1</th>
+          <th>Alumno 2</th>
+          <th>Alumno 3</th>
+          <th>Coach</th>
+          <th>Acciones</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let team of teams">
+          <td>{{ team.teamName }}</td>
+          <td>{{ team.contestTitle }}</td>
+          <td>{{ team.student1 }}</td>
+          <td>{{ team.student2 }}</td>
+          <td>{{ team.student3 }}</td>
+          <td>{{ team.coach }}</td>
+          <td>
+            <button 
+              class="btn btn-sm btn-warning me-2" 
+              (click)="editTeam(team)">
+              Editar
+            </button>
+            <button 
+              class="btn btn-sm btn-danger" 
+              (click)="deleteTeam(team.id)">
+              Eliminar
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
