@@ -1,0 +1,111 @@
+[
+  {
+    "ContainingType": "ERIZO_API.Controllers.CRUDTeamController",
+    "Method": "GetTeams",
+    "RelativePath": "api/CRUDTeam",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ERIZO_API.Team, ERIZO_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ERIZO_API.Controllers.CRUDTeamController",
+    "Method": "addNewTeam",
+    "RelativePath": "api/CRUDTeam",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newTeam",
+        "Type": "ERIZO_API.Team",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ERIZO_API.Team",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ERIZO_API.Controllers.CRUDTeamController",
+    "Method": "getTeamById",
+    "RelativePath": "api/CRUDTeam/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ERIZO_API.Team",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ERIZO_API.Controllers.CRUDTeamController",
+    "Method": "updateTeam",
+    "RelativePath": "api/CRUDTeam/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "toUpdate",
+        "Type": "ERIZO_API.Team",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERIZO_API.Controllers.CRUDTeamController",
+    "Method": "deleteTeam",
+    "RelativePath": "api/CRUDTeam/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

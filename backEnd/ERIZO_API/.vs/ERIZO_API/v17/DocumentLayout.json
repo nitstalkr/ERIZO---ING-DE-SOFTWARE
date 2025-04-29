@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|c:\\users\\gordillo\\documents\\trabajos_escolares_2.0\\francisco\\itsur\\semestre 6\\ing sft\\elproyecto\\erizo---ing-de-software\\backend\\erizo_api\\erizo_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|solutionrelative:erizo_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|c:\\users\\gordillo\\documents\\trabajos_escolares_2.0\\francisco\\itsur\\semestre 6\\ing sft\\elproyecto\\erizo---ing-de-software\\backend\\erizo_api\\erizo_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|solutionrelative:erizo_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|c:\\users\\gordillo\\documents\\trabajos_escolares_2.0\\francisco\\itsur\\semestre 6\\ing sft\\elproyecto\\erizo---ing-de-software\\backend\\erizo_api\\erizo_api\\controllers\\crudteamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|solutionrelative:erizo_api\\controllers\\crudteamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|c:\\users\\gordillo\\documents\\trabajos_escolares_2.0\\francisco\\itsur\\semestre 6\\ing sft\\elproyecto\\erizo---ing-de-software\\backend\\erizo_api\\erizo_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|solutionrelative:erizo_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|c:\\users\\gordillo\\documents\\trabajos_escolares_2.0\\francisco\\itsur\\semestre 6\\ing sft\\elproyecto\\erizo---ing-de-software\\backend\\erizo_api\\erizo_api\\migrations\\crudteamdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|solutionrelative:erizo_api\\migrations\\crudteamdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|c:\\users\\gordillo\\documents\\trabajos_escolares_2.0\\francisco\\itsur\\semestre 6\\ing sft\\elproyecto\\erizo---ing-de-software\\backend\\erizo_api\\erizo_api\\migrations\\20250428183814_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|solutionrelative:erizo_api\\migrations\\20250428183814_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|c:\\users\\gordillo\\documents\\trabajos_escolares_2.0\\francisco\\itsur\\semestre 6\\ing sft\\elproyecto\\erizo---ing-de-software\\backend\\erizo_api\\erizo_api\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|solutionrelative:erizo_api\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|c:\\users\\gordillo\\documents\\trabajos_escolares_2.0\\francisco\\itsur\\semestre 6\\ing sft\\elproyecto\\erizo---ing-de-software\\backend\\erizo_api\\erizo_api\\data\\crudteamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|solutionrelative:erizo_api\\data\\crudteamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|c:\\users\\gordillo\\documents\\trabajos_escolares_2.0\\francisco\\itsur\\semestre 6\\ing sft\\elproyecto\\erizo---ing-de-software\\backend\\erizo_api\\erizo_api\\erizo_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|solutionrelative:erizo_api\\erizo_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|c:\\users\\gordillo\\documents\\trabajos_escolares_2.0\\francisco\\itsur\\semestre 6\\ing sft\\elproyecto\\erizo---ing-de-software\\backend\\erizo_api\\erizo_api\\erizo_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FB312FA-761E-4AD4-80AE-428A09CB3B12}|ERIZO_API\\ERIZO_API.csproj|solutionrelative:erizo_api\\erizo_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRUDTeamDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\Migrations\\CRUDTeamDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ERIZO_API\\Migrations\\CRUDTeamDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\Migrations\\CRUDTeamDBContextModelSnapshot.cs",
+              "RelativeToolTip": "ERIZO_API\\Migrations\\CRUDTeamDBContextModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:39:26.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ERIZO_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ERIZO_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T19:11:20.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CRUDTeamController.cs",
+              "DocumentMoniker": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\Controllers\\CRUDTeamController.cs",
+              "RelativeDocumentMoniker": "ERIZO_API\\Controllers\\CRUDTeamController.cs",
+              "ToolTip": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\Controllers\\CRUDTeamController.cs",
+              "RelativeToolTip": "ERIZO_API\\Controllers\\CRUDTeamController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:24:44.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\appsettings.json",
+              "RelativeDocumentMoniker": "ERIZO_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\appsettings.json",
+              "RelativeToolTip": "ERIZO_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T11:35:31.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\Program.cs",
+              "RelativeDocumentMoniker": "ERIZO_API\\Program.cs",
+              "ToolTip": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\Program.cs",
+              "RelativeToolTip": "ERIZO_API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:22:17.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250428183814_inicial.cs",
+              "DocumentMoniker": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\Migrations\\20250428183814_inicial.cs",
+              "RelativeDocumentMoniker": "ERIZO_API\\Migrations\\20250428183814_inicial.cs",
+              "ToolTip": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\Migrations\\20250428183814_inicial.cs",
+              "RelativeToolTip": "ERIZO_API\\Migrations\\20250428183814_inicial.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:38:15.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\Team.cs",
+              "RelativeDocumentMoniker": "ERIZO_API\\Team.cs",
+              "ToolTip": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\Team.cs",
+              "RelativeToolTip": "ERIZO_API\\Team.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAEwAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:24:12.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CRUDTeamDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\Data\\CRUDTeamDBContext.cs",
+              "RelativeDocumentMoniker": "ERIZO_API\\Data\\CRUDTeamDBContext.cs",
+              "ToolTip": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\Data\\CRUDTeamDBContext.cs",
+              "RelativeToolTip": "ERIZO_API\\Data\\CRUDTeamDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:37:47.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ERIZO_API.http",
+              "DocumentMoniker": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\ERIZO_API.http",
+              "RelativeDocumentMoniker": "ERIZO_API\\ERIZO_API.http",
+              "ToolTip": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\ERIZO_API.http",
+              "RelativeToolTip": "ERIZO_API\\ERIZO_API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-07T19:11:37.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ERIZO_API.csproj",
+              "DocumentMoniker": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\ERIZO_API.csproj",
+              "RelativeDocumentMoniker": "ERIZO_API\\ERIZO_API.csproj",
+              "ToolTip": "C:\\Users\\GORDILLO\\Documents\\Trabajos_escolares_2.0\\Francisco\\ITSUR\\Semestre 6\\ING SFT\\ElProyecto\\ERIZO---ING-DE-SOFTWARE\\backEnd\\ERIZO_API\\ERIZO_API\\ERIZO_API.csproj",
+              "RelativeToolTip": "ERIZO_API\\ERIZO_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T15:37:07.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
